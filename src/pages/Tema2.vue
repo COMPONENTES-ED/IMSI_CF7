@@ -368,7 +368,7 @@
                 <span class="fw-bold text-white">1</span>
               </div>
               <span
-                ><strong>Verificación visual:</strong> Comenzar con una
+                ><strong>Verificación visual:</strong> comenzar con una
                 inspección visual general del equipo. Buscar señales evidentes
                 de daño físico, como cables desconectados, piezas sueltas o
                 componentes quemados.</span
@@ -382,7 +382,7 @@
                 <span class="fw-bold text-white">2</span>
               </div>
               <span
-                ><strong>Comprobación del encendido:</strong> Encender el equipo
+                ><strong>Comprobación del encendido:</strong> encender el equipo
                 para observar si arranca correctamente. Si el equipo no
                 enciende, verificar la fuente de poder y los cables de
                 conexión.</span
@@ -396,7 +396,7 @@
                 <span class="fw-bold text-white">3</span>
               </div>
               <span
-                ><strong>Revisión de pantallas y monitores:</strong> Asegurarse
+                ><strong>Revisión de pantallas y monitores:</strong> asegurarse
                 de que el monitor esté funcionando correctamente. Si se detecta
                 que la pantalla no muestra nada o presenta imágenes
                 distorsionadas, se debe revisar la tarjeta gráfica o los cables
@@ -411,7 +411,7 @@
                 <span class="fw-bold text-white">4</span>
               </div>
               <span
-                ><strong>Comprobación de sonidos extraños:</strong> Escuchar si
+                ><strong>Comprobación de sonidos extraños:</strong> escuchar si
                 el equipo emite ruidos inusuales. Los ventiladores, discos duros
                 o la fuente de poder pueden generar ruidos cuando están dañados.
                 Esto puede indicar la necesidad de lubricación o reemplazo de
@@ -426,7 +426,7 @@
                 <span class="fw-bold text-white">5</span>
               </div>
               <span
-                ><strong>Verificación de temperatura:</strong> Usar
+                ><strong>Verificación de temperatura:</strong> usar
                 <em>software</em> para monitorear las temperaturas del
                 procesador, tarjeta gráfica y otros componentes críticos.
                 Temperaturas elevadas pueden ser un signo de fallas en los
@@ -453,7 +453,7 @@
                 <span class="fw-bold text-white">6</span>
               </div>
               <span
-                ><strong>Revisión de <em>software</em>:</strong> Comprobar que
+                ><strong>Revisión de <em>software</em>:</strong> comprobar que
                 el sistema operativo esté funcionando correctamente. Verificar
                 que no haya mensajes de error o fallas en la carga de
                 aplicaciones. Actualizar drivers y verificar la integridad del
@@ -468,7 +468,7 @@
                 <span class="fw-bold text-white">7</span>
               </div>
               <span
-                ><strong>Comprobación de la RAM:</strong> Ejecutar un
+                ><strong>Comprobación de la RAM:</strong> ejecutar un
                 diagnóstico de memoria (utilizando herramientas como Memtest86)
                 para asegurarse de que no haya fallas en los módulos de RAM que
                 puedan afectar el rendimiento.</span
@@ -482,7 +482,7 @@
                 <span class="fw-bold text-white">8</span>
               </div>
               <span
-                ><strong>Verificación de la fuente de poder:</strong> Usar un
+                ><strong>Verificación de la fuente de poder:</strong> usar un
                 <em>tester</em> de fuente de poder para comprobar que está
                 suministrando los voltajes correctos a los componentes del
                 sistema. Si se detectan fallas, la fuente de poder debe ser
@@ -498,7 +498,7 @@
               </div>
               <span
                 ><strong>Revisión de los discos de almacenamiento:</strong>
-                Utilizar <em>software</em> para verificar la salud de los discos
+                utilizar <em>software</em> para verificar la salud de los discos
                 duros o unidades SSD. Buscar sectores defectuosos y realizar una
                 copia de seguridad de los datos importantes antes de que se
                 produzca una falla mayor.</span
@@ -513,7 +513,7 @@
               </div>
               <span
                 ><strong>Revisión de los puertos y conectores:</strong>
-                Comprobar todos los puertos de entrada/salida (USB, HDMI, audio,
+                comprobar todos los puertos de entrada/salida (USB, HDMI, audio,
                 etc.) para asegurarse de que no estén dañados. Probar la
                 conexión de dispositivos periféricos para verificar que
                 funcionen correctamente.</span

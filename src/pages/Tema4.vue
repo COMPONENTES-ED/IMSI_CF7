@@ -123,7 +123,7 @@
         <span>Formulario Hoja de vida de un equipo</span>
       </div>
       <div class="tabla-a color-acento-contenido" data-aos="fade-up">
-        <table>
+        <table style="border: 4px solid #692cb7">
           <caption class="mt-3 fw-normal">
             <strong>Fuente:</strong>
             OIT, 2024.
@@ -194,7 +194,7 @@
                 class="fw-bold"
                 style="background-color:#EBF6EA;border-right:0px;"
               >
-                Componentes
+                Componentes:
               </td>
               <td style="border-left:0;"></td>
             </tr>
@@ -248,7 +248,7 @@
                 class="fw-bold"
                 style="background-color:#EBF6EA;border-right:0px;"
               >
-                Historial de mantenimiento
+                Historial de mantenimiento:
               </td>
               <td style="border-left:0;"></td>
             </tr>
@@ -257,7 +257,7 @@
                 class="fw-bold"
                 style="background-color:#EBF6EA;border-right:0px;"
               >
-                Fecha
+                Fecha:
               </td>
               <td style="border-left:0;"></td>
             </tr>
@@ -266,7 +266,7 @@
                 class="fw-bold"
                 style="background-color:#EBF6EA;border-right:0px;"
               >
-                Comentarios adicionales
+                Comentarios adicionales:
               </td>
               <td style="border-left:0;"></td>
             </tr>
