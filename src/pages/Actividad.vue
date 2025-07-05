@@ -21,12 +21,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre mantenimiento preventivo de equipos
+              Prueba de conocimientos sobre Mantenimiento preventivo de equipos
               de cómputo: técnicas y procedimiento
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre el mantenimiento preventivo
+            Validar el conocimiento adquirido sobre el Mantenimiento preventivo
             de equipos de cómputo: técnicas y procedimiento. Esto se trabaja a
             partir de un conjunto de preguntas, con el propósito de buscar una
             dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
